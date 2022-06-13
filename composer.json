@@ -1,0 +1,21 @@
+{
+    "name": "xds/composer-framework",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xds\\ComposerFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xds",
+            "email": "1905320249@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
