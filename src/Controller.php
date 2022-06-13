@@ -1,6 +1,6 @@
 <?php
 
-namespace xds;
+namespace XdsFramework;
 
 /**
  * User: xds
@@ -15,9 +15,9 @@ class Controller
 
     }
 
-    protected function test()
+    public function test()
     {
-
+        return 123;
     }
 
 }
