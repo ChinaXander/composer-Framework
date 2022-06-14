@@ -9,7 +9,10 @@
     "autoload": {
         "psr-4": {
             "XdsFramework\\": "src/"
-        }
+        },
+        "files": [
+            "src/bootstarp.php"
+        ]
     },
     "authors": [
         {
